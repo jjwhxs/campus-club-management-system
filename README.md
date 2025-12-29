@@ -207,4 +207,4 @@ public R delInfo(String id) {
 
 <img width="1075" height="131" alt="链接" src="https://github.com/user-attachments/assets/817bfd28-9f35-435a-9470-a5278ce85671" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
