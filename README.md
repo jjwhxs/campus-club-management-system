@@ -15,7 +15,7 @@
 ### 成果展示
 
 用户->注册/登录
-<img width="1920" height="1101" alt="用户-注册登录png" src="https://github.com/user-attachments/assets/d2c0e187-6994-4c66-bfd6-948eaa7cdfd1" />
+<img width="1901" height="1024" alt="登录注册" src="https://github.com/user-attachments/assets/6b63c414-557e-4d69-a89a-a6db859c0e74" />
 
 用户->社团信息浏览
 <img width="1917" height="1099" alt="用户-社团信息浏览" src="https://github.com/user-attachments/assets/d51fdc50-4571-406c-a937-818dacdd167f" />
@@ -203,8 +203,6 @@ public R delInfo(String id) {
 4）下载完毕后启动前端npm run serve，访问端口
 
 获取方式(可远程调试)
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1075" height="131" alt="链接" src="https://github.com/user-attachments/assets/817bfd28-9f35-435a-9470-a5278ce85671" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeVlJlu
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
